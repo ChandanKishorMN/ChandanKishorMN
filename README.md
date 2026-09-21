@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Learning Java & DSA**
 
-- 👨‍💻 All of my projects are available at [chandankishormn.site](chandankishormn.site)
+- 👨‍💻 All of my projects are available at [https://github.com/ChandanKishorMN](https://github.com/ChandanKishorMN)
 
 - 📫 How to reach me **chandan2005mn@gmail.com**
 
