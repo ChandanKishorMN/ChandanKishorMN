@@ -5,7 +5,7 @@
 
 - 👨‍💻 **CSE Student at VVCE,Mysuru**
 
-- 🔭 **Learning Java & DSA**
+- 🔭 **Learning Java & Data Structure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
