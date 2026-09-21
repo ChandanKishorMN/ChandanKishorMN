@@ -3,14 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankishormn&label=Profile%20views&color=0e75b6&style=flat" alt="chandankishormn" /> </p>
 
-<h1 👨‍💻 About Me</h1>
-- 🔭 I’m currently working on **CSE Student at VVCE,Mysuru**
+- 👨‍💻 **CSE Student at VVCE,Mysuru**
 
-- 🌱 I’m currently learning **Learning Java & DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChandanKishorMN](https://github.com/ChandanKishorMN)
-
-- 📫 How to reach me **chandan2005mn@gmail.com**
+- 🔭 **Learning Java & DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
